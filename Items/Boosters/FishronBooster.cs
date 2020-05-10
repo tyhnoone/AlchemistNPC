@@ -17,7 +17,7 @@ namespace AlchemistNPC.Items.Boosters
 			DisplayName.AddTranslation(GameCulture.Russian, "Усилитель Рыброна");
 			Tooltip.AddTranslation(GameCulture.Russian, "Все параметры усилены на 4% когда на поверхности, ездовой питомец всегда ускорен");
 			DisplayName.AddTranslation(GameCulture.Chinese, "猪鲨增益容器");
-			Tooltip.AddTranslation(GameCulture.Chinese, "表面上的所有统计数据增加");
+			Tooltip.AddTranslation(GameCulture.Chinese, "处于地表时所有属性增加4%，坐骑总处于加速状态");
         }
 
 		public override void SetDefaults()

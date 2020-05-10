@@ -137,7 +137,7 @@ namespace AlchemistNPC.Buffs
 			if (modPlayer.FishronBooster == 1)
 			{
 				tip += "\n+4% all stats up while on surface, mount is always accelerated";
-				tipch += "\n表面上的所有属性增加";
+				tipch += "\n处于地表时所有属性增加4%，坐骑总处于加速状态";
 			}
 			if (modPlayer.MartianSaucerBooster == 1)
 			{
